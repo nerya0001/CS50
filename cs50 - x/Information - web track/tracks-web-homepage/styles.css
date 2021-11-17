@@ -1,0 +1,101 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+header
+{
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    margin-right: 70px;
+}
+
+a:link, a:visited
+{
+  background-color: grey;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active
+{
+  background-color: grey;
+}
+
+h1
+{
+    text-align: left;
+    padding: 0;
+    margin: 20px;
+    color: darkblue;
+}
+
+h2
+{
+    text-align: left;
+    padding: 0;
+    margin: 20px;
+    color: darkblue;
+}
+
+h3
+{
+    text-align: left;
+    padding: 0;
+    margin: 20px;
+    color: lightblue;
+}
+
+p
+{
+    text-align: left;
+    padding: 20px;
+    margin: 0;
+    color: grey;
+}
+
+form
+{
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    color: black;
+}
+
+.contact
+{
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    color: black;
+}
+
+img
+{
+    display:block;
+}
+
+ul
+{
+    padding: 20px;
+    margin: 0;
+    color: black;
+}
+
+#about
+{
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: left;
+}
+
+
+

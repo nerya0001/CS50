@@ -25,4 +25,6 @@ This course explores the concepts and algorithms at the foundation of modern art
 * [Knowledge](https://github.com/nerya0001/CS50/tree/main/cs50%20-%20ai/Knowledge)   
 
 
+### Verefied Certificate:
+* [The certificate](https://courses.edx.org/certificates/aeaabda0c5a54bfbaadaff56e0c25303)
 ![](/verified_certificate.jpeg)

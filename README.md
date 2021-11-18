@@ -22,4 +22,7 @@ This course explores the concepts and algorithms at the foundation of modern art
 
 #### cs50 - AI
 * [Search](https://github.com/nerya0001/CS50/tree/main/cs50%20-%20ai/Search)
-* [Knowledge](https://github.com/nerya0001/CS50/tree/main/cs50%20-%20ai/Knowledge)
+* [Knowledge](https://github.com/nerya0001/CS50/tree/main/cs50%20-%20ai/Knowledge)   
+
+
+![](/verified_certificate.jpeg)
